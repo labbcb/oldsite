@@ -43,11 +43,11 @@ O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre d
 
 A Média Geral (MG) será calculada da seguinte maneira:
 
-$MG = 0,20 P1 + 0,40 P2 + 0,20 AM + 0,20 TS$
+MG = 0,20 P1 + 0,40 P2 + 0,20 AM + 0,20 TS
 
-Se $MG >= 6,0$, então o aluno estará aprovado e sua Média Final (MF) será igual a MG.
+Se MG >= 6,0, então o aluno estará aprovado e sua Média Final (MF) será igual a MG.
 
-Se $MG < 6,0$ e frequência superior a 75/100, então o aluno deverá realizar o Exame Final (EF). Neste caso, sua MF será:
+Se MG < 6,0 e frequência superior a 75/100, então o aluno deverá realizar o Exame Final (EF). Neste caso, sua MF será:
 
 $MF = (MG+EF)/2.$
 
