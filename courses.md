@@ -57,6 +57,7 @@ $MF = (MG+EF)/2.$
 - Wardrop, R.L. (1995) Statistics - Learning in the Presence of Variation. Wm. C. Brown
 Publishers.
 - Notas de aula disponíveis no sítio eletrônico do curso.
+- Ross, S. M.. [Introductory Statistics](http://www.sciencedirect.com/science/book/9780123743886)
 - Diez, D. M.; Barr, C. D.; Çetinkaya-Rundel, M. (2015). [OpenIntro Statistics](https://drive.google.com/file/d/0B-DHaDEbiOGkY1FCdEJFNGV1Ym8/view)
 – Magalhães, M.N. e de Lima, A.C.P. (2001) Noções de Probabilidade e Estatística. IME/USP.
 
