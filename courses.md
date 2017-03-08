@@ -176,7 +176,3 @@ O programa do curso envolve a teoria e prática de conceitos básicos de Estatí
 ### Análise de variância
 
 [Parte24](introestatistica/parte24/parte24.html)
-
-
-
-## Métodos Computacionais Aplicados à Estatística
