@@ -13,11 +13,10 @@ O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre d
 | Turmas | Dia | Horário |    Tópico   | Local |
 |:------:|:---:|:-------:|:-----------:|:-----:|
 |  A/B   |  2a |  10-12  | Laboratório | LM03  |
-|  A/B   |  2a |  14-16  |   Prática   | CB  |
+|  A/B   |  2a |  14-16  |   Prática   | CB03  |
 |  C/D   |  6a |  08-10  | Laboratório | LM03  |
-|  C/D   |  6a |  14-16  |   Prática   | CB  |
-| A/B/C/D|  4a |  14-16  | Teórica | CB  |
-
+|  C/D   |  6a |  14-16  |   Prática   | CB06  |
+| A/B/C/D|  4a |  14-16  |   Teórica   | CB03  |
 
 
 ## Horários de Atendimento
@@ -32,6 +31,17 @@ O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre d
 
 ## Datas Importantes
 
+- Prova 1: 12 de abril de 2017
+- Prova 2: 28 de junho de 2017
+
+## Bibliografia
+
+- Wardrop, R.L. (1995) Statistics - Learning in the Presence of Variation. Wm. C. Brown
+Publishers.
+– Notas de aula disponíveis no sítio eletrônico do curso.
+– Diez, D. M.; Barr, C. D.; Çetinkaya-Rundel, M. (2015). OpenIntro Statistics.
+https://drive.google.com/file/d/0B-DHaDEbiOGkY1FCdEJFNGV1Ym8/view
+– Magalhães, M.N. e de Lima, A.C.P. (2001) Noções de Probabilidade e Estatística. IME/USP.
 
 ### Estatística Descritiva
 
