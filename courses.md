@@ -6,6 +6,19 @@ permalink: /courses/
 
 ## Introdução à Estatística
 
+O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre de 2017 pelo Prof. Benilton Carvalho.
+
+O horário de atendimento segue a programação abaixo:
+
+|    Dia    | Horário |    Responsável    | Sala/IMECC |
+|:---------:|:-------:|:-----------------:|:----------:|
+| 2a. feira | 13-14   | Marilia Rocha     |     124    |
+| 3a. feira | 12-13   | Danielle Carvalho |     222    |
+| 4a. feira | 13-14   | Benilton Carvalho |     230    |
+| 5a. feira | 17-18   | Marilia Rocha     |     323    |
+| 6a. feira | 13-14   | Danielle Carvalho |     124    |
+
+
 ### Estatística Descritiva
 
 * Introdução
