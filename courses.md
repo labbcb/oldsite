@@ -4,7 +4,7 @@ title: courses
 permalink: /courses/
 ---
 
-# Introdução à Estatística
+#### Introdução à Estatística
 
 O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre de 2017 pelo Prof. Benilton Carvalho.
 
@@ -49,7 +49,7 @@ Se MG >= 6,0, então o aluno estará aprovado e sua Média Final (MF) será igua
 
 Se MG < 6,0 e frequência superior a 75/100, então o aluno deverá realizar o Exame Final (EF). Neste caso, sua MF será:
 
-$MF = (MG+EF)/2.$
+MF = (MG+EF)/2.
 
 
 ## Bibliografia
