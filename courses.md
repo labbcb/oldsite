@@ -4,8 +4,6 @@ title: IntroEstat
 permalink: /introestat/
 ---
 
-O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre de 2017 pelo Prof. Benilton Carvalho.
-
 - Professor: Benilton Carvalho
 - Contato: Enviar email a partir de seu endereço @dac.unicamp.br para benilton@unicamp.br . A linha de assunto deve conter [ME093]. E-mails a partir de outros endereços não são filtrados para leitura.
 - Atividades e notas estão disponíveis na página do Moodle. Você deverá logar com o mesmo usuário e senha que usar para acessar os serviços da DAC.
