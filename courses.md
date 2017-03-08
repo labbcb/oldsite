@@ -4,9 +4,13 @@ title: IntroEstat
 permalink: /introestat/
 ---
 
-## Introdução à Estatística
-
 O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre de 2017 pelo Prof. Benilton Carvalho.
+
+- Atividades e notas estão disponíveis na página do Moodle. Você deverá logar com o mesmo usuário e senha que usar para acessar os serviços da DAC.
+- Sobre abono de faltas, consulte o [regimento](http://www.dac.unicamp.br/portal/grad/regimento/capitulo_v/secao_x/).
+- O aluno deverá proceder de forma respeitosa e honesta durante as provas bem como na resolução de qualquer outra atividade que seja parte da avaliação do curso.
+- O login usado para acessar o Moodle é intransferível. [Capítulo VI, artigo 59](http://www.pg.unicamp.br/mostra_norma.php?id_norma=3256).
+
 
 ### Horários de Aula
 
