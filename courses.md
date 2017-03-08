@@ -4,7 +4,7 @@ title: courses
 permalink: /courses/
 ---
 
-#### Introdução à Estatística
+### Introdução à Estatística
 
 O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre de 2017 pelo Prof. Benilton Carvalho.
 
