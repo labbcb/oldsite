@@ -12,7 +12,7 @@ O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre d
 - O login usado para acessar o Moodle é intransferível. [Capítulo VI, artigo 59](http://www.pg.unicamp.br/mostra_norma.php?id_norma=3256).
 
 
-### Horários de Aula
+## Horários de Aula
 
 | Turmas | Dia | Horário |    Tópico   | Local |
 |:------:|:---:|:-------:|:-----------:|:-----:|
@@ -23,7 +23,7 @@ O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre d
 | A/B/C/D|  4a |  14-16  |   Teórica   | CB03  |
 
 
-### Horários de Atendimento
+## Horários de Atendimento
 
 |    Dia    | Horário |    Responsável    | Sala/IMECC |
 |:---------:|:-------:|:-----------------:|:----------:|
@@ -33,12 +33,14 @@ O curso de *Introdução à Estatística (ME093)* é ministrado no 1o Semestre d
 | 5a. feira | 17-18   | Marilia Rocha     |     323    |
 | 6a. feira | 13-14   | Danielle Carvalho |     124    |
 
-### Datas Importantes
+
+## Datas Importantes
 
 - Prova 1: 12 de abril de 2017
 - Prova 2: 28 de junho de 2017
 
-### Método de Avaliação
+
+## Método de Avaliação
 
 - Prova 1: 20 (pc)
 - Prova 2: 40 (pc)
@@ -56,7 +58,7 @@ Se MG < 6,0 e frequência superior a 75/100, então o aluno deverá realizar o E
 MF = (MG+EF)/2.
 
 
-### Bibliografia
+## Bibliografia
 
 - Wardrop, R.L. (1995) Statistics - Learning in the Presence of Variation. Wm. C. Brown
 Publishers.
@@ -64,6 +66,10 @@ Publishers.
 - Ross, S. M.. [Introductory Statistics](http://www.sciencedirect.com/science/book/9780123743886)
 - Diez, D. M.; Barr, C. D.; Çetinkaya-Rundel, M. (2015). [OpenIntro Statistics](https://drive.google.com/file/d/0B-DHaDEbiOGkY1FCdEJFNGV1Ym8/view)
 – Magalhães, M.N. e de Lima, A.C.P. (2001) Noções de Probabilidade e Estatística. IME/USP.
+
+## Programa
+
+O programa do curso envolve a teoria e prática de conceitos básicos de Estatística, conforme descrito abaixo.
 
 ### Estatística Descritiva
 
