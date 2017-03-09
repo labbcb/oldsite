@@ -17,7 +17,7 @@ permalink: /introestat/
 | Turmas | Dia | Horário |    Tópico   | Local |
 |:------:|:---:|:-------:|:-----------:|:-----:|
 |  A/B   |  2a |  10-12  | Laboratório | LM03  |
-|  A/B   |  2a |  14-16  |   Prática   | CB03  |
+|  A/B   |  2a |  14-16  |   Prática   | CB02  |
 |  C/D   |  6a |  08-10  | Laboratório | LM03  |
 |  C/D   |  6a |  14-16  |   Prática   | CB06  |
 | A/B/C/D|  4a |  14-16  |   Teórica   | CB03  |
