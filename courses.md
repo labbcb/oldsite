@@ -25,13 +25,13 @@ permalink: /introestat/
 
 ## Horários de Atendimento
 
-|    Dia    | Horário |    Responsável    | Sala/IMECC |
+|    Dia    | Horário |    Responsável    |    Sala    |
 |:---------:|:-------:|:-----------------:|:----------:|
-| 2a. feira | 13-14   | Marilia Rocha     |     124    |
-| 3a. feira | 12-13   | Danielle Carvalho |     222    |
-| 4a. feira | 13-14   | Benilton Carvalho |     230    |
-| 5a. feira | 17-18   | Marilia Rocha     |     323    |
-| 6a. feira | 13-14   | Danielle Carvalho |     124    |
+| 2a. feira | 13-14   | Danielle Carvalho |  IMECC/124 |
+| 3a. feira | 12-13   | Marilia Rocha     |  IMECC/222 |
+| 4a. feira | 13-14   | Benilton Carvalho |  IMECC/230 |
+| 5a. feira | 17-18   | Marilia Rocha     |   PB/05    |
+| 6a. feira | 13-14   | Danielle Carvalho |  IMECC/124 |
 
 
 ## Datas Importantes
