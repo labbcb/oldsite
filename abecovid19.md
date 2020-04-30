@@ -24,4 +24,5 @@ Como meio de valorização e reconhecimento destes esforços, consideram-se:
 * Pacote R [datacovidbr](https://github.com/Freguglia/datacovidbr) - Victor Freguglia (IMECC/UNICAMP);
 * Suporte TI para EvalAI - Welliton de Souza (FCM/UNICAMP);
 * Acesso a dados censitários: [Atlas do Desenvolvimento Humano no Brasil](http://atlasbrasil.org.br);
-* Ambiente de "maior" performance: [Galileo](https://galileoapp.io/).
+* Ambiente de "maior" performance: [Galileo](https://galileoapp.io/);
+* Ambiente de Alta Performance: [CENAPAD-SP](https://www.cenapad.unicamp.br/servicos/noticias/corona.shtml).
