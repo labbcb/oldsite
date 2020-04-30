@@ -13,10 +13,9 @@ author: Benilton S Carvalho
 
 navbar-links:
   About Me: "aboutme"
-  Research:
-    - Under construction:
   COVID-19:
     - Tracker RMC: "https://bcblab.org/COVID19TrackerRMC"
+    - ABE-COVID-19: "abecovid19"
   Biographic Information:
     - ORCiD: "https://orcid.org/0000-0001-5122-5646"
     - CV Lattes: "http://lattes.cnpq.br/0897291971174045"
